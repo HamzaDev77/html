@@ -1,0 +1,3 @@
+function js(){
+  console.log('')
+}
